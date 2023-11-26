@@ -1,6 +1,7 @@
-# Vending Machine
+# 🥤 Vending Machine 🧃
 
-This is a simple console-based vending machine program written in C++. The program simulates the functionality of a vending machine, allowing users to view available products, make purchases, and view their inventory. The vending machine supports both cash and card payments.
+This is a simple console vending machine program written in C++. The program simulates the functionality of a vending machine, 
+allowing users to view available products, make purchases, and view their inventory. The vending machine supports both cash and card payments.
 
 ## Features
 
@@ -10,7 +11,6 @@ This is a simple console-based vending machine program written in C++. The progr
 - **Purchase**: Users can buy products from the vending machine using their selected payment method.
 - **Inventory Display**: Users can view their inventory and the vending machine's available products.
 - **Payment Display**: The payment method used for a purchase is displayed.
-.
 
 ## How to Use
 
@@ -26,7 +26,7 @@ This is a simple console-based vending machine program written in C++. The progr
 
 3. **UML Diagram**: UML diagram of the vending machine.
 
-![VendingMachineIMG](https://github.com/patrikinho0/Vending-Machine/assets/115628374/4835ba33-35f2-4a18-81db-300ffa28032b)
+   ![VendingMachineIMG](https://github.com/patrikinho0/Vending-Machine/assets/115628374/4835ba33-35f2-4a18-81db-300ffa28032b)
 
 <br><br>
-<p align="center">Made by <a href="https://github.com/patrikinho0">patrikinho</a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/patrikinho0">patrikinho</a></p>
